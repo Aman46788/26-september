@@ -3,6 +3,6 @@ resource "azurerm_resource_group" "test-rg" {
   location = "west europe"
 }
 resource "azurerm_resource_group" "test-rg1" {
-  name     = "shwetank-test2"
+  name     = "shwetank-test1"
   location = "west europe"
 }
