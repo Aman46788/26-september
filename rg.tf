@@ -3,6 +3,6 @@ resource "azurerm_resource_group" "test-rg" {
   location = "west europe"
 }
 resource "azurerm_resource_group" "test-rg2" {
-  name     = "shwetank-ka resource"
+  name     = "shwetankAman-ka resource"
   location = "west europe"
 }
